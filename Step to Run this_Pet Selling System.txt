@@ -1,0 +1,11 @@
+Steps:
+
+1. Download the project
+
+2. Create a new database called "petshop_management" in MySQL and import petshop_management.sql
+ 
+3. Change the user and password for db connection in every php file with respect to the server you are using
+
+4. Use login page : Username ="abcd" password =123
+
+Thank you :)
